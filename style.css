@@ -38,7 +38,7 @@ li{
 }
 
 .search-button{
-    background-color: rgb(221, 221, 221);
+    background-color: rgb(230, 230, 230);
     font-size: 12px;
     border: none;
     padding: 10px 20px 10px;
@@ -102,4 +102,14 @@ li{
 
 .focal{
     padding-top: 50px;
+}
+
+.search-button:hover{
+    border: solid;
+    border-width: 1px;
+    border-color: grey;
+}
+
+.search-hover:hover{
+    text-decoration: none;
 }
