@@ -60,8 +60,12 @@ li{
     height: 35px;
     width: 400px;
     border-radius: 25px;
-    box-shadow: 0px 0px 79px -34px rgba(0,0,0,0.5);
     border-style: solid;
+    border-width: 1px;
+}
+
+#search-bar:hover{
+    box-shadow: 1px 1px 1px 1px rgb(230, 230, 230);
 }
 
 .first-nav{
